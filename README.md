@@ -6,7 +6,7 @@ Use o gerenciador pacotes/depedências [yarn](https://yarnpkg.com/) ou [npm](htt
 
 ## Para logar no sistema
 
--   Subir o backend e rodar o script de criação do banco de dados(Está no readme do backend)
+-   Subir o [backend](https://github.com/romulofssGit/crud-romulo-backend) e rodar o script de criação do banco de dados(Está no readme do backend)
 -   Usuário: admin@admin.com
 -   Senha: 123456
 
